@@ -5,7 +5,7 @@
 * What did you do particularly well in developing this documentation?
   I'm not entirely sure as I still don't think I understand what I was meant to be doing. I tried doing what I thought was right but I'm not sure I was doing that.
 * What about the process of working through a design document did you find helpful when developing the code?
-  Honestly I didn't find much helpful as I can already tell what exactly I can and can't do when looking at a prompt, as I've been doing this for almost 10 years now.
+  Honestly I didn't find much helpful as I can already tell what exactly I can and can't do when looking at a prompt, as I've been doing this for almost 10 years now, and have recently picked up GitHub as a place to put my works so I can collaborate with people and let them review my code and tell me what I can improve, as well as for basic version control.
 * If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
   Probably all of it, as again I don't think I understood what I was meant to be doing. I tried to state what exactly can and can't be done, or what can be done but what would be better.
 * How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
